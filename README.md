@@ -2,6 +2,8 @@
 
 Requirements:
 1. Streamlit
-2. Django
-3. Django REST Framework
+3. Django
+4. Django REST Framework
+5. Matplotlib
+6. Pandas
 
